@@ -5,6 +5,7 @@ export interface Experience {
   role: string;
   period: string;
   responsibilities: string[];
+  impact: string;
 }
 
 export interface SkillCategory {
@@ -12,7 +13,6 @@ export interface SkillCategory {
   technologies: string;
 }
 
-// Fixed: Added description property to Certification interface to resolve errors in data.ts and Certifications.tsx
 export interface Certification {
   name: string;
   description: string;

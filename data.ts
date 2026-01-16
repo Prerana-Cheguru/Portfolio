@@ -26,7 +26,7 @@ export const EXPERIENCES: Experience[] = [
       "Implemented MLflow orchestration for experiment tracking and model versioning of pricing and fraud models."
     ],
     impact: "30% ↓ claim processing | 40% ↑ fraud detection | $100M+ premium tracking"
-  } as any,
+  },
   {
     client: "E-Bay",
     location: "Austin, TX, USA",
@@ -48,7 +48,7 @@ export const EXPERIENCES: Experience[] = [
       "Achieved 50% increase in customer engagement and 35% boost in conversion rates."
     ],
     impact: "50% ↑ engagement | 35% ↑ conversions | 40% ↓ content creation time"
-  } as any,
+  },
   {
     client: "Lowe’s Companies, Inc.",
     location: "Charlotte, NC, USA",
@@ -70,7 +70,7 @@ export const EXPERIENCES: Experience[] = [
       "Orchestrated CI/CD pipelines using AWS EKS and Apache Airflow."
     ],
     impact: "Deployed to 500+ stores | $10B+ retail operations | 99.9% uptime"
-  } as any,
+  },
   {
     client: "Frontier Communications",
     location: "McKinney, TX, USA",
@@ -89,7 +89,7 @@ export const EXPERIENCES: Experience[] = [
       "Orchestrated containerized ML applications using Kubernetes with automatic scaling and load balancing."
     ],
     impact: "↑ Customer retention | ↑ Engagement metrics | Improved efficiency"
-  } as any,
+  },
   {
     client: "Discover Financial Services",
     location: "Hyderabad, TG, India",
@@ -106,7 +106,7 @@ export const EXPERIENCES: Experience[] = [
       "Leveraged cloud-based analytics platforms including Google BigQuery and Cloud AutoML."
     ],
     impact: "20% ↑ ROI | 15% ↑ engagement | 25% ↑ scaling | 40% ↑ collaboration"
-  } as any,
+  },
   {
     client: "Humana Inc",
     location: "Hyderabad, TG, India",
@@ -124,7 +124,7 @@ export const EXPERIENCES: Experience[] = [
       "Assessed patient churn risk using survival analysis and Matplotlib visualization."
     ],
     impact: "Improved patient outcomes | Enhanced diagnostics | Optimized resources"
-  } as any,
+  },
   {
     client: "PayPal",
     location: "Hyderabad, TG, India",
@@ -141,7 +141,7 @@ export const EXPERIENCES: Experience[] = [
       "Managed source code and CI/CD workflows using Git and GitHub."
     ],
     impact: "Served millions of users | Reliable performance | Security compliant"
-  } as any
+  }
 ];
 
 export const SKILLS: SkillCategory[] = [
